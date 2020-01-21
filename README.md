@@ -2,7 +2,7 @@
 
 
 
-scrollingapp 1 is a simple horizontal scrollin app
+scrollingapp 1 is a simple horizontal scrolling app
 
 gallary is a simple gallery of 6 images with scrolling options
 
